@@ -1,0 +1,3 @@
+pscp -P 2323 rd@220.132.141.9:/home/rd/www/wolfcanorder.com C:\Users\user\Desktop
+
+pscp -P 2323 C:\Users\user\Desktop\wolfcanorder.com.tar rd@220.132.141.9:/home/rd
